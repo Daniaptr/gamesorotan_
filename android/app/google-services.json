@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740534175739",
+    "project_id": "gamespotlight-18d27",
+    "storage_bucket": "gamespotlight-18d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740534175739:android:487b568f14149dc1c32d5e",
+        "android_client_info": {
+          "package_name": "com.example.sorotangame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3y2Ls5FbPD0hTphmvSMZDoRAWSVHNUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
